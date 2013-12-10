@@ -1,7 +1,3 @@
-# events-browserify
+# DEPRECATED #
 
-node.js core events module for browsers
-
-## credits
-Original code from the node.js project with browserify modifications
-
+Use the `events` module instead https://github.com/Gozala/events
